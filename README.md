@@ -8,8 +8,8 @@
 ## 学习进度
 | 日期 | 学习内容 | 代码文件 |
 |------|----------|----------|
-| 2026-02-4至15 | Python核心 | `python_basics/test.py` |
-| 2026-02-16至23 | 大模型基础 | `DeepSeek 调用.py` |
+| 2026-02-4至02-15 | Python核心 | `python_basics/test.py` |
+| 2026-02-16至02-23 | 大模型基础 | `DeepSeek 调用.py` |
 
 ## 学习工具
 - Python：Pycharm
